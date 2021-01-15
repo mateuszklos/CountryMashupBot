@@ -3,6 +3,8 @@ Simple bot that makes random country name based on existing ones just by getting
 
 Program gets random letters from random element of an array containing country names (239 elements).
 
+Inspired by: https://www.facebook.com/countrybot208/
+
 # Sample output:
 
 aodad
