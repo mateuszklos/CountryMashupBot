@@ -1,10 +1,6 @@
 package pl.cmb;
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
 import java.util.Random;
-import java.io.*;
 
 public class Main {
 
@@ -35,9 +31,7 @@ public class Main {
         }
 
         System.out.println("\n\n" + "Letters from: " + countries[indexN] + "\n" + "Length of: " + countries[indexL] + " ("  + countries[indexL].length() + ")" );
+
     }
-
-
-
 
 }
